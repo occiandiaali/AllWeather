@@ -1,0 +1,7 @@
+{
+  "name": "allweather",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
